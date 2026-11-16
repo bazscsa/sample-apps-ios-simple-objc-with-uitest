@@ -1,4 +1,4 @@
-# Bitrise sample iOS app (Objective-C, with UI tests)
+# Bitrise sample iOS app (Objective-C, with UI tests) Updated
 
 A small Objective-C iOS app used as a fixture for testing Bitrise steps.
 
